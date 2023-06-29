@@ -6,6 +6,7 @@
 2. Install node packages: `yarn`
 3. Generate .exe or .app file: `yarn make`
 4. Place generated .exe or .app file inside the `obs-overlay` directory
+5. Open generated file
 
 ---
 
