@@ -2,9 +2,10 @@
 
 ## Running App
 
-1. Run `yarn`
-2. Run `yarn make`
-3. Place generated .exe or .app file inside the `obs-overlay` directory
+1. Open `app` directory: `cd app`
+2. Install node packages: `yarn`
+3. Generate .exe or .app file: `yarn make`
+4. Place generated .exe or .app file inside the `obs-overlay` directory
 
 ---
 
